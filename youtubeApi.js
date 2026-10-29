@@ -1,4 +1,4 @@
-const API_KEY = "AIzaSyDhir8SSbVEPkYatrfY8gB3QMq8TVV3LP8"; // paste your key inside quotes
+const API_KEY = "YOUR API KEY; // paste your key inside quotes
 
 export const fetchVideos = async (query = "latest music") => {
   try {
